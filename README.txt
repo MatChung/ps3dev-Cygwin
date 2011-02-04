@@ -60,7 +60,7 @@ PS....
 I put this at the very bottom of this post so that you read all of it before cloning or forking the repo.
 1) To get the pre-compiled toolchain on linux make sure you have git installed.
 2) Open terminal and cd to one of the three directories above
-3) type "git clone https://github.com/Goblom/ooPo-ps3toolchain-linux.git" without the quotes
+3) type " git clone https://github.com/Goblom/ooPo-ps3toolchain-Cygwin.git " without the quotes
 4) it may take a while because it is 540mb.
 
 ==========================================================================
